@@ -1,0 +1,193 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02354nam a2200565 c 4500</leader>
+  <controlfield tag="001">1030721556</controlfield>
+  <controlfield tag="003">DE-601</controlfield>
+  <controlfield tag="005">20211007102923.0</controlfield>
+  <controlfield tag="008">180912s2018    gw            000 0 ger d</controlfield>
+  <datafield ind2=" " tag="015" ind1=" ">
+    <subfield code="a">18N37</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield ind1="7" tag="016" ind2=" ">
+    <subfield code="a">1166079740</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">3837644960</subfield>
+    <subfield code="c"> (Broschur : circa EUR 34.99 (DE), circa EUR 34.99 (AT), circa CHF 42.70 (freier Preis))</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783837644968</subfield>
+    <subfield code="c"> (Broschur : circa EUR 34.99 (DE), circa EUR 34.99 (AT), circa CHF 42.70 (freier Preis))</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9783839444962 (electronic)</subfield>
+    <subfield code="c"> PDF</subfield>
+  </datafield>
+  <datafield ind2=" " tag="024" ind1="3">
+    <subfield code="a">9783837644968</subfield>
+  </datafield>
+  <datafield ind1=" " tag="035" ind2=" ">
+    <subfield code="a">(DE-101)1166079740</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1166079740</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="040">
+    <subfield code="b">ger</subfield>
+    <subfield code="c">GBVCP</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="041">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="044">
+    <subfield code="c">XA-DE-NW</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="0" tag="082">
+    <subfield code="a">370</subfield>
+  </datafield>
+  <datafield ind2=" " tag="084" ind1=" ">
+    <subfield code="a">81.49</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="084">
+    <subfield code="a">79.65</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield ind1=" " tag="084" ind2=" ">
+    <subfield code="a">81.65</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield ind1=" " tag="084" ind2=" ">
+    <subfield code="a">81.68</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield ind1=" " tag="084" ind2=" ">
+    <subfield code="a">81.61</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Deimann, Markus</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+    <subfield code="0">(DE-601)527113603</subfield>
+    <subfield code="0">(DE-588)132821729</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Open Education</subfield>
+    <subfield code="b">auf dem Weg zu einer offenen Hochschulbildung</subfield>
+    <subfield code="c">Markus Deimann</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bielefeld</subfield>
+    <subfield code="b">transcript</subfield>
+    <subfield code="c">2018</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">257 Seiten</subfield>
+    <subfield code="c">22.5 cm x 14.8 cm, 438 g</subfield>
+  </datafield>
+  <datafield ind1=" " tag="336" ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " tag="337" ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="338" ind1=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="0" tag="490" ind2=" ">
+    <subfield code="a">Pädagogik</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Literaturverzeichnis: Seite 217-257</subfield>
+  </datafield>
+  <datafield ind2="7" ind1=" " tag="650">
+    <subfield code="0">(DE-601)10547956X</subfield>
+    <subfield code="0">(DE-588)4160198-1</subfield>
+    <subfield code="a">Hochschulbildung</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind2="7" tag="650" ind1=" ">
+    <subfield code="0">(DE-601)104757124</subfield>
+    <subfield code="0">(DE-588)4075624-5</subfield>
+    <subfield code="a">Offener Unterricht</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind2="7" ind1=" " tag="650">
+    <subfield code="0">(DE-601)788456989</subfield>
+    <subfield code="0">(DE-588)105237154X</subfield>
+    <subfield code="a">Open educational Resources</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="0">(DE-601)829376135</subfield>
+    <subfield code="0">(DE-588)107372798X</subfield>
+    <subfield code="a">Massive Open Online Course</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind2="8" ind1="0" tag="776">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="n">Online-Ausgabe</subfield>
+    <subfield code="a">Deimann, Markus, 1974-</subfield>
+    <subfield code="t">Open Education</subfield>
+    <subfield code="d">Bielefeld : transcript, [2018]</subfield>
+    <subfield code="h">1 Online-Ressource (257 Seiten)</subfield>
+    <subfield code="w">(DE-601)1043867759</subfield>
+  </datafield>
+  <datafield ind2="2" ind1="4" tag="856">
+    <subfield code="u">http://d-nb.info/1166079740/04</subfield>
+    <subfield code="m">B:DE-101</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+  </datafield>
+  <datafield ind2="2" ind1="4" tag="856">
+    <subfield code="u">http://www.transcript-verlag.de/978-3-8376-4496-8</subfield>
+    <subfield code="m">X:MVB</subfield>
+  </datafield>
+  <datafield ind2=" " tag="900" ind1=" ">
+    <subfield code="a">GBV</subfield>
+    <subfield code="b">UB Ilmenau &lt;Ilm 1&gt;</subfield>
+    <subfield code="d">!35! GWN DM 2000 D324</subfield>
+  </datafield>
+  <datafield ind2=" " tag="900" ind1=" ">
+    <subfield code="a">GBV</subfield>
+    <subfield code="b">TIB Hannover &lt;89&gt;</subfield>
+    <subfield code="d">!FBE pae 897! E 19 B 236</subfield>
+    <subfield code="f">Erworben aus Studienqualitätsmitteln</subfield>
+  </datafield>
+  <datafield ind1=" " tag="900" ind2=" ">
+    <subfield code="a">GBV</subfield>
+    <subfield code="b">HS Merseburg &lt;542&gt;</subfield>
+    <subfield code="d">!FH! 81.40 25&lt;1&gt;/1</subfield>
+    <subfield code="g">2019:127</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">BU</subfield>
+    <subfield code="n">0</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="951">
+    <subfield code="a">DM 2000</subfield>
+    <subfield code="2">32</subfield>
+  </datafield>
+  <datafield ind1=" " tag="951" ind2=" ">
+    <subfield code="a">AL 40100</subfield>
+    <subfield code="2">32</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2</subfield>
+    <subfield code="d">2</subfield>
+  </datafield>
+</record>
