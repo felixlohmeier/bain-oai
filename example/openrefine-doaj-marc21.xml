@@ -1,0 +1,530 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">b75e8d5cca3f46cbbd63e91be5b32412</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1099-4300</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Flavia Pennini</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">The Fisher Thermodynamics of Quasi-Probabilities</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Fisher information</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">quasi-probabilities</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">complementarity</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Physics</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QC1-999</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Science</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Q</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Angelo Plastino</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">0edc5af6672641c0bd45608812a34f9e</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2077-0472</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Naveed Aslam</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Aflatoxin Contamination of the Milk Supply: A Pakistan Perspective</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">aflatoxins</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">AFM1</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">AFB1</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">milk marketing chains</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">hepatocellular carcinoma</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Agriculture (General)</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">S1-972</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Agriculture</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">S</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Peter C. Wynn</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">d9fe469f75a0442382b84ba4f50007ee</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1422-0067</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Rafael R. C. Cuadrat</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Metagenomic Analysis of Upwelling-Affected Brazilian Coastal Seawater Reveals Sequence Domains of Type I PKS and Modular NRPS</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">PKS</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">NRPS</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">metagenomics</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">environmental genomics</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">upwelling</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">coastal environment</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Chemistry</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QD1-999</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Science</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Q</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Juliano C. Cury</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Alberto M. R. Dávila</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">95606ed39deb4f43b96f7e6308ad15d3</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2304-6740</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Fabrizio Ortu</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Synthesis and Reactivity of a Cerium(III) Scorpionate Complex Containing a Redox Non-Innocent 2,2′-Bipyridine Ligand</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">lanthanide</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">cerium</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">scorpionate</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">tris(pyrazolyl)borate</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">radical</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">redox non-innocent</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Inorganic chemistry</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QD146-197</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Hao Zhu</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Marie-Emmanuelle Boulon</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">David P. Mills</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">18b1d70730d44573ab5c264b7f93e041</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2306-5338</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Magali Troin</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Performance and Uncertainty Evaluation of Snow Models on Snowmelt Flow Simulations over a Nordic Catchment (Mistassibi, Canada)</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">snow models</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">hydrological models</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">snowmelt</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">uncertainty</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Canada</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Science</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Q</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Richard Arsenault</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">François Brissette</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">5765b418183c4b70bb0b774f4627beb5</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1420-3049</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Xiaoxiao Qin</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Dihydrochalcone Compounds Isolated from Crabapple Leaves Showed Anticancer Effects on Human Cancer Cell Lines</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Malus crabapples</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">leaves</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">dihydrochalcone compounds</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">anticancer activity</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">human cancer cell lines</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Organic chemistry</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QD241-441</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Chemistry</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QD1-999</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Science</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Q</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Yun Feng Xing</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Zhiqin Zhou</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Yuncong Yao</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">d1d39464834447c8bd9c269710e1e17d</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2073-4344</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Anton Axelsson</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Ionic Liquids as Carbene Catalyst Precursors in the One-Pot Four-Component Assembly of Oxo Triphenylhexanoates (OTHOs)</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">ionic liquid</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">NHC</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">OTHO</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">multicomponent reaction</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">carbene</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">organocatalysis</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">organogel</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">MCR</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">1,6-ketoester</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Physical and theoretical chemistry</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QD450-801</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Chemistry</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QD1-999</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Science</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Q</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Linda Ta</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Henrik Sundén</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">253cd7d35aa34a8eaa264da748a52e0e</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1422-0067</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Weihong Min</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Characterization of Aspartate Kinase from Corynebacterium pekinense and the Critical Site of Arg169</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Corynebacterium pekinense</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">aspartate kinase</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">characterization</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">molecular docking</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Chemistry</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QD1-999</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Science</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Q</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Huiying Li</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Hongmei Li</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Chunlei Liu</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Jingsheng Liu</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">83bb4f8f7d09467da97780b81ea0c21d</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2073-8994</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Tosiaki Kori</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Quaternifications and Extensions of Current Algebras on S3</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">infinite dimensional lie algebras</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">current algebra</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">lie algebra extensions</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">quaternion analysis</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">81R10</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">17B65</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">17B67</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">22E67</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Physics</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">QC1-999</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Science</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Q</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Yuto Imai</subfield>
+</datafield>
+</record>
+<record>
+<leader>     nab a22     uu 4500</leader>
+<controlfield tag="001">39227747725f45acbe245dcf81394ee9</controlfield>
+<datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2075-4418</subfield>
+</datafield>
+<datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Christina Schraml</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Imaging of HCC—Current State of the Art</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">hepatocellular carcinoma</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">magnetic resonance imaging</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">guidelines</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">diffusion-weighted imaging</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">dynamic contrast-enhanced magnetic resonance imaging</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">computed tomography</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">dual-energy computed tomography</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">volume perfusion computed tomography</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">contrast media</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">hepatocyte specific contrast media</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Medicine</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">R</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">Medicine (General)</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">R5-920</subfield>
+</datafield>
+
+
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Sascha Kaufmann</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Hansjoerg Rempp</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Roland Syha</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Dominik Ketelsen</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Mike Notohamiprodjo</subfield>
+</datafield>
+<datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Konstantin Nikolaou</subfield>
+</datafield>
+</record>
+</collection>
